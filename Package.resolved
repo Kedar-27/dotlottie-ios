@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/dotLottie/dotLottieLoader",
         "state": {
           "branch": null,
-          "revision": "2760eeecfde0dcc4f8974acef1fc6ed5c0b45b09",
-          "version": "0.1.8"
+          "revision": "be96f7067368c22912deafbdf4adf4d95e5a92f9",
+          "version": "0.1.9"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/airbnb/lottie-ios.git",
         "state": {
           "branch": null,
-          "revision": "4a6058cbbdfe4f74aeae92c8bd51ad3b0de2a1ee",
-          "version": "3.3.0"
+          "revision": "b4bd0604ded9574807f41b4004b57dd1226a30a4",
+          "version": "3.5.0"
         }
       },
       {
